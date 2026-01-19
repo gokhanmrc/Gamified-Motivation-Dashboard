@@ -17,9 +17,8 @@ Unlike traditional budget trackers, this system treats rewards as "fuel" for fut
 - **Structure:** Scalable data tables designed for monthly performance cycles.
 
 ## 🚀 How to Use
-1. **Direct Access:** [Click here to create your own copy on Google Sheets](#) *(https://docs.google.com/spreadsheets/d/1QG8IWCfw90LY3LtkSMxR0SbeUPjp-aDVBCLFrWn_xhU/edit?usp=sharing/copy linkini yapıştır)*
+1. **Direct Access:** [Click here to create your own copy on Google Sheets](https://docs.google.com/spreadsheets/d/1QG8IWCfw90LY3LtkSMxR0SbeUPjp-aDVBCLFrWn_xhU/copy)
 2. **Excel Template:** Download the `.xlsx` file from the `/Template` folder in this repository.
 3. **Setup:** Define your own tasks, point values, and "Discretionary Cap" percentage in the Dashboard settings.
 
 ---
-*Developed by **Gökhan Meriç** - Data Analyst with a passion for Gamification and Behavioral Economics.*
