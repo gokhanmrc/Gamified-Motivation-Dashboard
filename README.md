@@ -27,24 +27,19 @@ Unlike traditional budget trackers, this system treats rewards as "fuel" for fut
 To ensure the dashboard and bonus mechanisms function correctly, please follow these data entry guidelines:
 
 #### Daily Tracking
-- Navigate to the specific date column (e.g., **12 January**).
-- Enter the value **`1`** for each completed task.
+- Navigate to the specific date column (e.g., "12 January") and enter the value "1" for each completed task.
 
 #### Reward Calculation
-- Entering **`1`** triggers the multiplier for that specific task.
-- The calculated reward is automatically reflected in **Virtual Earnings** on the Dashboard.
+- Entering "1" triggers the multiplier for that specific task, which then automatically reflects your "Virtual Earnings" on the Dashboard.
 
 #### Activating Bonuses
-- Combo and Recurring Bonuses are based on **consistency**.
-- Missing entries will break the bonus chain.
+- To trigger Combo and Recurring Bonuses, you must maintain consistency.
 
 #### Consecutive Entry (Streak Logic)
-- For a task completed **3 times consecutively**, enter: 1 | 1 | 1
-- The system recognizes this as a **streak** and applies bonus calculations accordingly.
+- For a task performed 3 times, enter "1" in three consecutive cells (e.g., 1 | 1 | 1). This allows the system to recognize the "streak" and calculate bonuses accurately.
 
 #### Automated Penalties
-- The **Discipline Debit** system is fully automated.
-- If a date has passed with **no entry**, a penalty is applied automatically.
+- Remember that the Discipline Debit system is dynamic; if a date has passed and no data is entered, the system will automatically apply a penalty to ensure accountability.
 
 ---
 
