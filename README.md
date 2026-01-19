@@ -19,6 +19,25 @@ Unlike traditional budget trackers, this system treats rewards as "fuel" for fut
 ## 🚀 How to Use
 1. **Direct Access:** [Click here to create your own copy on Google Sheets](https://docs.google.com/spreadsheets/d/1QG8IWCfw90LY3LtkSMxR0SbeUPjp-aDVBCLFrWn_xhU/copy)
 2. **Excel Template:** Download the `.xlsx` file from the `/Template` folder in this repository.
-3. **Setup:** Define your own tasks, point values, and "Discretionary Cap" percentage in the Dashboard settings.
+3. **Setup:** Define your own tasks, point values, and "Discretionary Cap" value in the Dashboard settings.
 
+🛠 Data Entry Rules
+To ensure the dashboard and bonus mechanisms function correctly, please follow these data entry guidelines:
+
+Daily Tracking: Navigate to the specific date column (e.g., "12 January") and enter the value "1" for each completed task.
+
+Reward Calculation: Entering "1" triggers the multiplier for that specific task, which then automatically reflects your "Virtual Earnings" on the Dashboard.
+
+Activating Bonuses: To trigger Combo and Recurring Bonuses, you must maintain consistency.
+
+Consecutive Entry: For a task performed 3 times, enter "1" in three consecutive cells (e.g., 1 | 1 | 1). This allows the system to recognize the "streak" and calculate bonuses accurately.
+
+Automated Penalties: Remember that the Discipline Debit system is dynamic; if a date has passed and no data is entered, the system will automatically apply a penalty to ensure accountability.
+
+💸 Tracking Rewards & Expenses
+The system is designed to handle direct expense entries alongside task tracking:
+
+Direct Expense Entry: To record a reward you’ve redeemed, simply go to the specific date column and enter the actual amount spent (e.g., enter 3500 for a game purchase) next to the relevant "Target Reward" item.
+
+Automatic Deduction: This value will be immediately deducted from your Gross Revenue, updating your Net Motivation Balance in real-time.
 ---
