@@ -1,4 +1,5 @@
 # 🚀 Personal Reward System: Gamified Performance Dashboard
+<img width="1851" height="484" alt="gamified" src="https://github.com/user-attachments/assets/7fd0fad8-ccad-4d24-9cf2-212524135da7" />
 
 A behavioral performance framework built with Excel/Google Sheets that turns daily productivity into a virtual economy. This project uses gamification principles, dynamic KPI tracking, and financial discipline to optimize personal motivation and habit consistency.
 
