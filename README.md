@@ -14,10 +14,10 @@ Unlike traditional budget trackers, this system treats rewards as "fuel" for fut
 ## 🖥 Technical Implementation
 - **Tools:** Microsoft Excel / Google Sheets
 - **Techniques:** Complex logical formulas (`IF`, `AND`, `TODAY`), Conditional Formatting, Data Validation, and Dynamic Dashboard Design.
-- **Structure:** Scalable data tables designed for 31-day performance cycles.
+- **Structure:** Scalable data tables designed for monthly performance cycles.
 
 ## 🚀 How to Use
-1. **Direct Access:** [Click here to create your own copy on Google Sheets](#) *(Buraya Google Sheets /copy linkini yapıştır)*
+1. **Direct Access:** [Click here to create your own copy on Google Sheets](#) *(https://docs.google.com/spreadsheets/d/1QG8IWCfw90LY3LtkSMxR0SbeUPjp-aDVBCLFrWn_xhU/edit?usp=sharing/copy linkini yapıştır)*
 2. **Excel Template:** Download the `.xlsx` file from the `/Template` folder in this repository.
 3. **Setup:** Define your own tasks, point values, and "Discretionary Cap" percentage in the Dashboard settings.
 
